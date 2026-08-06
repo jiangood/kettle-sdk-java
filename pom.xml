@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.tmgg</groupId>
+    <groupId>io.github.jiangood</groupId>
     <artifactId>kettle-sdk-java</artifactId>
-    <version>1.0.2</version>
+    <version>2.0.0</version>
 
     <properties>
         <compile.version>8</compile.version>
@@ -17,7 +17,7 @@
     </properties>
 
     <description>kettle sdk, such as run job, run trans</description>
-    <url>https://github.com/tmgg/kettle-sdk-java</url>
+    <url>https://github.com/jiangood/kettle-sdk-java</url>
     <licenses>
         <license>
             <name>The Apache License, Version 2.0</name>
@@ -26,14 +26,14 @@
     </licenses>
     <developers>
         <developer>
-            <name>tmgg</name>
+            <name>jiangood</name>
             <email>410518072@qq.com</email>
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git:github.com/tmgg/kettle-sdk-java.git</connection>
-        <developerConnection>scm:git@github.com:tmgg/kettle-sdk-java.git</developerConnection>
-        <url>https://github.com/tmgg/kettle-sdk-java/tree/master</url>
+        <connection>scm:git:git:github.com/jiangood/kettle-sdk-java.git</connection>
+        <developerConnection>scm:git@github.com:jiangood/kettle-sdk-java.git</developerConnection>
+        <url>https://github.com/jiangood/kettle-sdk-java/tree/master</url>
     </scm>
 
 
